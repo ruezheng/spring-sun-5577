@@ -57,6 +57,8 @@ Some of the initial migrations and model set up has been done for you.
 * Doctors can have many patients
 * Patients can have many doctors
 
+## Database Diagram
+
 ![Screen Shot 2022-06-05 at 6 13 15 PM](https://user-images.githubusercontent.com/99001315/172076381-600389be-1bf2-445d-93e3-addd6ad9e072.png)
 
 ## User Stories
